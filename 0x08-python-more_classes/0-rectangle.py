@@ -3,4 +3,5 @@
 
 
 class Rectangle:
-    pasis
+    """ represent a rectangle """
+    pass
